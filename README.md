@@ -1,2 +1,3 @@
 # ProjectD
-- edit by Chine on locally
+- edit by Chien on locally
+  edit by Chien on GitHub
